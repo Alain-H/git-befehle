@@ -10,6 +10,7 @@
     'git status = CheckBox status Of changes
     'git log = Seek() all previous saved changes
     'git checkout *commit hash*= travel back To old commit
+    'bla test bla
 
 
 
